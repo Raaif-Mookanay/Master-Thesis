@@ -40,7 +40,7 @@ thesis_replication_package/
 │       └── volume.csv         <-- Consolidated trading volume data structured by tertiles
 │
 ├── results/                   <-- Econometric model outputs and test results
-│   ├── 01_granger_causality/     <-- Saved Granger causality test outputs
+│   ├── 01_granger_causality/   <-- Saved Granger causality test outputs
 │   ├── 02_vector_error_correction_model/  <-- Saved VECM test outputs
 │   └── 03_forecast_error_variance_decomposition/  <-- Saved FEVD outputs
 │
